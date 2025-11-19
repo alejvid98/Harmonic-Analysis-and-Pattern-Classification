@@ -1,4 +1,5 @@
 Title: Harmonic Analysis and Pattern Classification of Electrocardiograms for Heart Disease Diagnosis
+
 Authors: Alejandro Vidales Esquivel: He received the B.Sc. degree in Electronic Engineering from Universidad Michoacana de San Nicolas de Hidalgo (UMSNH), Morelia, Mexico, in 2021, 
 and the M.Sc. degree in Electrical Engineering from UMSNH in 2025. His research focuses on harmonic analysis of ECG signals, development of state observers for system estimation,
 biomedical signal modeling, and the application of machine learning techniques for computer-based medical diagnosis.
