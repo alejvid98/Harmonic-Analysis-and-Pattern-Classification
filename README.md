@@ -1,7 +1,7 @@
 # Harmonic Analysis and Pattern Classification of Electrocardiograms for Heart Disease Diagnosis
 
 
-## Manuscript ID: IEEE LATAM Submission ID: 10091  
+## Manuscript ID: 10091  
 **Authors:**
 
 
