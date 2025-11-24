@@ -53,7 +53,6 @@ During execution, `main.m` first runs `armonicosv2.slx` to obtain the harmonic e
 
 Finally, `main.m` interprets the label and outputs the corresponding diagnosis in text format.
 
---
 To run the diagnosis process, the ECG signals to be analyzed must be placed inside a folder named **`data`**.  
 The system reads the signals automatically from this folder, so maintaining the folder name and structure is required.  
 The dataset (`base_datos.csv`) is **not needed for normal execution** — it is only included in case the user wishes to retrain or test new classifiers.
